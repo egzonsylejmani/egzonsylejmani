@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Egzon Sylejmani!
 
-Welcome to my GitHub profile! I'm a full-stack developer from Kosovo 🇽🇰, focused on building scalable Laravel + Vue applications, cross-platform mobile/web apps with React & React Native, and exploring DevOps practices.
+Welcome to my GitHub profile! I'm a full-stack developer from Kosovo 🇽🇰, focused on building scalable applications, cross-platform mobile/web apps with React & React Native, and exploring DevOps practices.
 
 ## 🚀 About Me
 - 💻 Full-stack developer (Laravel, Vue, React, React Native)
