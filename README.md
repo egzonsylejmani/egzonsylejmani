@@ -25,15 +25,14 @@ Welcome to my GitHub profile! I'm a full-stack developer from Kosovo 🇽🇰, f
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+> **Note:** This is not my main or first repository—many of my projects are private or for client work.
+
 ## 📈 GitHub Stats
 ![Egzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=egzonsylejmani&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egzonsylejmani&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=egzonsylejmani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔥 GitHub Contribution Graph
+## 🔥 GitHub Contribution Graph (All-Time)
 [![Egzon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=egzonsylejmani&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
